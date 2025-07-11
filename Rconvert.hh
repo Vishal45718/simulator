@@ -1,0 +1,1 @@
+std::string Rconvert (std::string s , int line_counter);

@@ -1,0 +1,1 @@
+std::string Uconvert(std::string s, int line_counter);

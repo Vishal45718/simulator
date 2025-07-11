@@ -1,0 +1,11 @@
+.data
+.dword 144680345676153584
+.text
+addi gp, x0, 16
+slli gp, gp, 12
+lb x5, 0(gp)
+lbu x6, 0(gp)
+lh x7, 0(gp)
+lhu x8, 0(gp)
+lw x9, 1(gp)
+ld x10, 4(gp)
